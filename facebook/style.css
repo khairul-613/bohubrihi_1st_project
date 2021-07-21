@@ -1,0 +1,88 @@
+  body{
+    font-family: 'Open Sans', sans-serif;
+  }
+  .bg-color{
+      background-color:#cacaca;
+      height:100vh;
+  }
+  .clrr{
+      background-color:#8d8d8d;
+  }
+  .clr{
+      background-color:#262738;
+  }
+  /* ABOUT SECTIO */
+  .about-container{
+      background-color:#00BDBD;
+  }
+  /* image */
+  .wid{
+      width:200px;
+      height:auto;
+  }
+     /* EDUCATION */
+.ccllrr{
+    background-color:beige;
+}
+.colr{
+    color:red;
+    text-align:center;
+    font-weight:600px;
+    padding:20px;
+}
+.bacc{
+    height:150px;
+    width:150px !important;
+    color:white;
+    background-color:#f8857f;
+    text-align:center !important;
+    border-radius:100%;
+     
+}
+.prob{
+    margin-top:40px !important;
+}
+
+/* Project  */
+.cdll{
+    background-color:#2bb3dd;
+}
+.cdll img{
+    width:250px;
+    height:200px;
+}
+.cdll p{
+    color:rgb(79, 98, 98);
+}
+.cdll a,p{
+    color:white;
+    text-decoration:none;
+
+}
+.fff{
+    margin-left:auto !important;
+    margin-right:auto;
+}
+.cllr img{
+    height:300px;
+    width:320px
+}
+.bgg-colorr{
+    background-color:#474d5d;
+}
+.bgg-colorr opp{
+   
+}
+.inner{
+    background-color:#585f73;
+}
+
+/* footer  */
+.bggg{
+    background-color:#2bb3dd;
+
+}
+.mmm{
+    margin-top:85px;
+     
+}
